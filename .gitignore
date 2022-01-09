@@ -1,0 +1,14 @@
+/.idea
+/vendor
+/composer.lock
+/upload/
+/bitrix/
+/public/upload
+/node_modules
+/package-lock.json
+/local/composer.lock
+/local/vendor/
+/local/php_interface/include/constants.php
+/local/modules/sprint.migration/
+local/log/*
+!local/components/wf/order/templates/.default/script.js
